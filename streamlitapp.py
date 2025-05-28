@@ -310,7 +310,7 @@ def main():
     if st.session_state.current_image_path:
         FileHandler.cleanup_temp_files(st.session_state.current_image_path)
     render_llm_config_sidebar()
-    st.title("AnK CAD")
+    st.title("MEDA")
 
     left_col, middle_col, right_col = st.columns([0.75, 2, 0.5])
 
