@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "Draw a 10×20×30 mm box",
+    "target_image": "targets/box_10_20_30.png",
+    "expected_extents": [10.0, 20.0, 30.0]
+  },
+    {
+        "prompt": "Draw a 15×25×35 mm box",
+        "target_image": "targets/box_15_25_35.png",
+        "expected_extents": [15.0, 25.0, 35.0]
+    },
+    {
+        "prompt": "Draw a 20×30×40 mm box",
+        "target_image": "targets/box_20_30_40.png",
+        "expected_extents": [20.0, 30.0, 40.0]
+    }
+]

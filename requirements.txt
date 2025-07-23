@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.16.0
+bitsandbytes>=0.39.0
+trimesh>=3.19.0
+pillow>=9.5.0
+numpy>=1.24.0
+opencv-python>=4.7.0
+sentencepiece>=0.1.98
+scikit-image>=0.21.0

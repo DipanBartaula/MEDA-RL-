@@ -1,0 +1,9 @@
+compute_environment: LOCAL_MACHINE
+distributed_type: ZERO2
+fp16: false
+bf16: true
+zero_stage: 2
+gradient_accumulation_steps: 8
+machine_rank: 0
+num_machines: 1
+num_processes: 2
